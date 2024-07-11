@@ -1,0 +1,13 @@
+/venv/
+/env/
+/virtualenv/
+/.venv/
+
+*.pyc
+__pycache__/
+
+/requirements.txt
+/Pipfile
+/Pipfile.lock
+
+.env
